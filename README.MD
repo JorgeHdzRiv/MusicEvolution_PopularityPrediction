@@ -63,14 +63,14 @@ El proyecto esta organizado de la siguiente manera:
   - **figures/**: Gráficos generados en los notebooks.
   - `summary_report.md`: Resumen de los resultados y hallazgos.
 
-- **app/** (si aplica): Carpeta para la aplicación/web interactiva.
+- **app/**: Carpeta para la aplicación/web interactiva.
   - **templates/**: Plantillas HTML para la interfaz.
   - **static/**: Archivos estáticos (CSS, JS, imágenes).
   - `app.py`: Código de la aplicación interactiva.
 
 - **README.md**: Este archivo que proporciona una descripción general del proyecto.
 
-- **requirements.txt**: Lista de paquetes y versiones requeridos para el entorno.
+- [**requirements.txt**](./requirements.txt): Lista de paquetes y versiones requeridos para el entorno.
 
 - **LICENSE**: Licencia del proyecto.
 
